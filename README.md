@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Akash Kumar Gupta.<br>I have 2 years of experience in Working on<br>HTML, CSS, JAVASCRIPT, TYPESCRIPT, React Js <br>Next Js, Node.<br>I worked on Major projects in ai, fintech category.<br>I contributed on features, planning, debugging,<br>development, api integration.
+I am Akash Kumar Gupta.<br>I have 2 years of experience in Working on<br>HTML, CSS, Javascript, Typescript, React Js <br>Next Js, Node.<br>I worked on Major projects in ai, fintech category.<br>I contributed on features, planning, debugging,<br>development, api integration.
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@ I am Akash Kumar Gupta.<br>I have 2 years of experience in Working on<br>HTML, C
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AKgupta22&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
