@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Akash Kumar Gupta.<br>I have 2 years of experience in Working on<br>HTML, CSS, Javascript, Typescript, React Js <br>Next Js, Node.<br>I worked on Major projects in ai, fintech category.<br>I contributed on features, planning, debugging,<br>development, api integration.
+I am Akash Kumar Gupta.<br>I have 3 years of experience in Working on<br>HTML, CSS, Javascript, Typescript, React Js <br>Next Js, Node.<br>I worked on Major projects in ai, fintech category.<br>I contributed on features, planning, debugging,<br>development, api integration.
 
 
 ## 🌐 Socials:
